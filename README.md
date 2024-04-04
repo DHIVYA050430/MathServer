@@ -121,10 +121,10 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<../coco/mathapp/Screenshot 2024-04-04 212423.png>)
+![alt text](<Screenshot 2024-04-04 212423.png>)
 
 ## HOMEPAGE:
-![alt text](<../coco/mathapp/Screenshot 2024-04-04 212309.png>)
+![alt text](<Screenshot 2024-04-04 212309-1.png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
